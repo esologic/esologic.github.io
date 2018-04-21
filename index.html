@@ -9,8 +9,8 @@
 		body {
 			margin-top: 5%;
 			margin-bottom: 5%;
-			margin-left: 10%;
-			margin-right: 10%;
+			max-width: 700px;
+			margin: auto;
 			background-color: #fffff0;
 		}
 	
@@ -18,32 +18,48 @@
 			font-weight: bold;
 		}
 		
+		.project_text {
+			margin: 10px 10px 10px 10px;
+		}
+		
 		.project { 
 			-moz-transition: all .2s ease-in;
 			-o-transition: all .2s ease-in;
 			-webkit-transition: all .2s ease-in;
 			transition: all .2s ease-in;
-			padding: 20px;
+			padding: 5px 5px 5px 5px;
+
+			/* Add shadows to create the "card" effect */
+			box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+			transition: 0.3s;
 		}
 
+		.project:hover {
+			box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+			color: white;
+		}
+		
+		.container {
+			margin: 20px 20px 20px 20px;
+			background-color: #ffff
+		}
+		
+		a {
+			color: black;
+			text-decoration: none;
+		}
+		
 		#telapush:hover { 
 			background: purple;
-			color: white;
 		}
 		
 		#esologic:hover { 
 			background: #dd9933;
-			color: white;
 		}
 		
-		#btw:hover { 
-			background: black;
-			color: white;
+		#btw:hover { 			background: black;
 		}
-		
-		a:hover {
-			color: white;
-		}
+
 		
 	</style>
 
@@ -58,23 +74,40 @@
 			<li>twitter.com/eso_logic</li>
 		</ul>
 		
-		<h1>Big Projects</h1>
+		<h1>Current Projects</h1>
 		
-		<div id="telapush" class="project">
-			<h2><a href="http://www.telapush.com/">Telapush</a></h2>
-			<p>Interactive light installations driven by social media. <span class="special">Co-Founder</span>.</p>
+		<div class="container">
+			<a href="http://www.telapush.com/">
+				<div id="telapush" class="project">
+					<div class="project_text">
+						<h2>Telapush</h2>
+						<p>Interactive light installations driven by social media. <span class="special">Co-Founder</span>.</p>
+					</div>
+				</div>
+			</a>
 		</div>
 		
-		<div id="esologic" class="project">
-			<h2><a href="http://www.esologic.com/">esologic</a></h2>
-			<p>Personal engineering development blog, a lot of work on open-source projects. <span class="special">Author</span>.</p>
+		<div class="container">
+			<a href="http://www.esologic.com/">
+				<div id="esologic" class="project">
+					<div class="project_text">
+						<h2>esologic</h2>
+						<p>Personal engineering development blog, a lot of work on open-source projects. <span class="special">Author</span>.</p>
+					</div>
+				</div>
+			</a>
 		</div>
 		
-		<div id="btw" class="project">
-			<h2><a href="http://www.blockthewind.com/">Block The Wind</a></h2>
-			<p>Art collective. Clothing and apparel business. Yearly music & culture festival in Portland, ME. <span class="special">Founding contributor</span>.</p>
+		<div class="container">
+			<a href="http://www.blockthewind.com/">
+				<div id="btw" class="project">
+					<div class="project_text">
+						<h2>Block The Wind</h2>
+						<p>Creative collective. Clothing and apparel business. Yearly music & culture festival in Portland, ME. <span class="special">Founding contributor</span>.</p>
+					</div>
+				</div>
+			</a>
 		</div>
-
 
 	</body>
 </html>
