@@ -2,16 +2,20 @@
 <html>
 
 	<style>
+		
 		* {
 			font-family: 'Cutive Mono', monospace;
+			font-size: large;
 		}
 		
 		body {
-			margin-top: 5%;
-			margin-bottom: 5%;
-			max-width: 700px;
-			margin: auto;
 			background-color: #fffff0;
+			height: 100%;
+			max-width: 75%;
+			min-width: 75%;
+			padding-left: 10%;
+			padding-right: 10%;
+			
 		}
 	
 		.special {
@@ -26,22 +30,18 @@
 			-moz-transition: all .2s ease-in;
 			-o-transition: all .2s ease-in;
 			-webkit-transition: all .2s ease-in;
-			transition: all .2s ease-in;
+			
 			padding: 5px 5px 5px 5px;
 
 			/* Add shadows to create the "card" effect */
 			box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 			transition: 0.3s;
+			color: white; 
 		}
 
-		.project:hover {
-			box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-			color: white;
-		}
-		
 		.container {
 			margin: 20px 20px 20px 20px;
-			background-color: #ffff
+			float: none;
 		}
 		
 		a {
@@ -49,71 +49,87 @@
 			text-decoration: none;
 		}
 		
-		#telapush:hover { 
+		.link {
+			text-decoration: underline;
+		}
+		
+		h1 {
+			font-size: 40px;
+		}
+		
+		#telapush { 
 			background: purple;
 		}
 		
-		#esologic:hover { 
-			background: #dd9933;
-		}
-		
-		#btw:hover { 			
-			background: black;
+		#esologic {
+			background: orange;
 		}
 
+		#btw { 			
+			background: black;
+		}
 		
 	</style>
 
 	<body>
 	
-	<link href="https://fonts.googleapis.com/css?family=Cutive+Mono" rel="stylesheet">
-
-		<h1>Devon Bray</h1>
-		<p>Boston-based Creative Engineer with an educational background in <span class="special">Electrical & Computer Engineering</span>, <span class="special">Computer Science</span> and <span class="special">English Literature</span>.</p>
-		<ul>
-			<li><a href="mailto:dev@esologic.com?Subject=Website%20Intro" target="_top">dev@esologic.com</a></li>
-			<li><a href="https://twitter.com/eso_logic">twitter.com/eso_logic</a></li>
-		</ul>
+		<link href="https://fonts.googleapis.com/css?family=Cutive+Mono" rel="stylesheet">
 		
-		<h1>Current Projects</h1>
-		
-		<div class="container">
-			<a href="http://www.telapush.com/">
-				<div id="telapush" class="project">
-					<div class="project_text">
-						<h2>Telapush</h2>
-						<p>Interactive light installations driven by social media. <span class="special">Co-Founder</span>.</p>
+		<div id="all">
+			
+			<h1>Devon Bray</h1>
+			
+			<p>Boston-based Creative Engineer with an educational background in <span class="special">Electrical & Computer Engineering</span>, <span class="special">Computer Science</span> and <span class="special">English Literature</span>.</p>
+			
+			
+			<ul>
+				<li><a href="mailto:dev@esologic.com?Subject=Website%20Intro" target="_top" class= "link">Email</a></li>
+				<li><a href="https://twitter.com/eso_logic" class= "link">Twitter</a></li>
+				<li><a href="https://www.linkedin.com/in/braydevon/" class= "link">Linkedin</a></li>
+				<li><a href="http://www.esologic.com/project-pages/" class= "link">Portfolio</a></li>
+			</ul>
+			
+			<h1>Current Projects</h1>
+			
+			<div class="container">
+				<a href="http://www.telapush.com/">
+					<div id="telapush" class="project">
+						<div class="project_text">
+							<h2>Telapush</h2>
+							<p>Interactive light installations driven by social media. <span class="special">Co-Founder</span>.</p>
+						</div>
 					</div>
-				</div>
-			</a>
+				</a>
+			</div>
+			
+			<div class="container">
+				<a href="http://www.esologic.com/">
+					<div id="esologic" class="project">
+						<div class="project_text">
+							<h2>esologic</h2>
+							<p>Personal engineering development blog, a lot of work on open-source projects. <span class="special">Author</span>.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			
+			<div class="container">
+				<a href="http://www.blockthewind.com/">
+					<div id="btw" class="project">
+						<div class="project_text">
+							<h2>Block The Wind</h2>
+							<p>Creative collective. Clothing and apparel retailer. Yearly music & culture festival in Portland, ME. <span class="special">Founding contributor</span>.</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			
 		</div>
 		
-		<div class="container">
-			<a href="http://www.esologic.com/">
-				<div id="esologic" class="project">
-					<div class="project_text">
-						<h2>esologic</h2>
-						<p>Personal engineering development blog, a lot of work on open-source projects. <span class="special">Author</span>.</p>
-					</div>
-				</div>
-			</a>
-		</div>
-		
-		<div class="container">
-			<a href="http://www.blockthewind.com/">
-				<div id="btw" class="project">
-					<div class="project_text">
-						<h2>Block The Wind</h2>
-						<p>Creative collective. Clothing and apparel business. Yearly music & culture festival in Portland, ME. <span class="special">Founding contributor</span>.</p>
-					</div>
-				</div>
-			</a>
-		</div>
-
 	</body>
 
 	<script>
-<script src="tilt.jquery.js"></script>
+		<script src="tilt.jquery.js"></script>
 	</script>
 	
 </html>
