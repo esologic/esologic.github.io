@@ -1,146 +1,952 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="static/portfolio.css">
+    <link rel="icon" href="static/icon.jpg" type="image/x-icon">
+</head>
+<body>
 
-	<style>
-	
-		@import url("https://fonts.googleapis.com/css?family=Inconsolata");
-		
-		* {
-			font-family: 'Inconsolata';
-			font-size: 20pt;
-		}
-		
-		body {
-			background-color: #fffff0;
-			padding-left: 5%;
-			padding-right: 5%;
-		}
-		
-		a {
-			color: black;
-			text-decoration: none;
-		}
-		
-		h1 {
-			font-size: 40pt;
-		}
-	
-		h2 {
-			font-size: 30pt;
-		}
-	
-		.special {
-			font-weight: bold;
-		}
-		
-		.project_text {
-			margin: 5% 5% 5% 5%;
-		}
-		
-		.project { 
-			padding: 1% 1% 1% 1%;
-			color: white; 
-		}
+    <div>
+        <img
+            src="static/banner_18.jpg"
+            class="header-image"
+            alt="&lt;p&gt;Sunset over Cape Cod bay.&lt;/p&gt;"
+        >
+        <div class="portfolio-header">
+            <h1>Devon Bray</h1>
+			<p>Boston-based Engineer with an educational background in <strong>Electrical &amp; Computer Engineering</strong>, <strong>Computer Science</strong> and <strong>English Literature</strong>.</p>
+            <p>I seek out work which leverages interdisciplinary engineering processes. This is acomplished through my professional work as a Software Engineer, my freelance practice, and my body of open-source work published online.</p>
+            <ul>
+                <li><a href="mailto:dev@esologic.com" class="header-link">Email</a></li>
+                
+                <li><a href="https://twitter.com/eso_logic/" class="header-link">Twitter.</a></li>
+                
+                <li><a href="https://www.linkedin.com/in/braydevon/" class="header-link">Linkedin.</a></li>
+                
+                <li><a href="https://www.todoFIXME.com" class="header-link">Resumé.</a></li>
+                
+            </ul>
+            <p>The following is my portfolio, a selection of the best projects across the different areas I'm active. If you have questions please reach out via email.</p>
+        </div>
+        <img
+            src="static/banner_8.jpg"
+            class="header-image"
+            alt="&lt;p&gt;Sunset over Cape Cod bay.&lt;/p&gt;"
+        >
+    </div>
 
-		.container {
-			margin-top: 3%;
-			margin-bottom: 3%;
-			float: none;
-		}
-
-		.link {
-			text-decoration: underline;
-		}
-				
-		#telapush { 
-			background: purple;
-		}
-		
-		#esologic {
-			background: orange;
-		}
-
-		#btw { 			
-			background: black;
-		}
-		
-		#upwork { 			
-			background: green;
-		}
-		
-	</style>
-
-	<body>
-	
-		<link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		
-		<div id="all">
-			
-			<h1>Devon Bray</h1>
-			
-			<p>Boston-based Creative Engineer with an educational background in <span class="special">Electrical & Computer Engineering</span>, <span class="special">Computer Science</span> and <span class="special">English Literature</span>.</p>
-			
-			
-			<ul>
-				<li><a href="mailto:dev@esologic.com?Subject=Website%20Intro" target="_top" class= "link">Email</a></li>
-				<li><a href="https://twitter.com/eso_logic" class= "link">Twitter</a></li>
-				<li><a href="https://www.linkedin.com/in/braydevon/" class= "link">Linkedin</a></li>
-				<li><a href="http://www.esologic.com/project-pages/" class= "link">Portfolio</a></li>
-			</ul>
-			
-			<h1>Current Projects</h1>
-			
-			<div class="container">
-				<a href="http://www.telapush.com/">
-					<div id="telapush" class="project">
-						<div class="project_text">
-							<h2>Telapush</h2>
-							<p>Interactive light installations driven by social media. <span class="special">Co-Founder</span>.</p>
-						</div>
-					</div>
-				</a>
-			</div>
-			
-			<div class="container">
-				<a href="http://www.esologic.com/">
-					<div id="esologic" class="project">
-						<div class="project_text">
-							<h2>esologic</h2>
-							<p>Personal engineering development blog, a lot of work on open-source projects. <span class="special">Author</span>.</p>
-						</div>
-					</div>
-				</a>
-			</div>
-			
-			<div class="container">
-				<a href="http://www.blockthewind.com/">
-					<div id="btw" class="project">
-						<div class="project_text">
-							<h2>Block The Wind</h2>
-							<p>Creative collective. Clothing and apparel retailer. Yearly music & culture festival in Portland, ME. <span class="special">Founding contributor</span>.</p>
-						</div>
-					</div>
-				</a>
-			</div>
-			
-			<div class="container">
-				<a href="https://www.upwork.com/freelancers/~0192d57ab47f9d1135">
-					<div id="upwork" class="project">
-						<div class="project_text">
-							<h2>Upwork</h2>
-							<p>Time permitting, I pick up freelancing work. Send me a message though upwork if you're interested</p>
-						</div>
-					</div>
-				</a>
-			</div>
-			
-		</div>
-		
-	</body>
-
-	<script>
-		<script src="tilt.jquery.js"></script>
-	</script>
-	
+    
+    <div style="background-color: purple" class="section-container">
+        <div class="section-header">
+            <h1 class="section-container-item">Telapush</h1>
+            <p>Telapush is a company that creates interactive light art installations driven by social media. As cofounder, I was responsible for the development of all the hardware and the majority of the software. More information can be found on the <a href="https://telapush.com/">company website</a>.</p>
+        </div>
+        <div class="container">
+            
+            
+            <figure onclick="location.href='31_nights_of_light/index.html';" style="cursor: pointer;" class="item large">
+                <img
+                    src="static/31_7.gif"
+                    class="gallery-img"
+                    alt="&lt;p&gt;Installed in the center of the mall, animating.&lt;/p&gt;"
+                >
+                <figcaption>
+                    <span class="entry-title">31 Nights Of Light (c. 2018) <span>&#8226;</span> </span>
+                    <span class="entry-description">30 Day Installation at the Prudential Center mall in Boston, MA.</span>
+                    
+                        <span class="entry-medium">3D Printer</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Electrical CAD</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">LED Art</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Mechanical CAD</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">PCB Electronics</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Protoboard Electronics</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Python</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Twitter</span>
+                        
+                    
+                </figcaption>
+            </figure>
+            
+            
+            <figure onclick="location.href='boston_new_technology/index.html';" style="cursor: pointer;" class="item large">
+                <img
+                    src="static/bnt_1.gif"
+                    class="gallery-img"
+                    alt="&lt;p&gt;Animation activating on installation.&lt;/p&gt;"
+                >
+                <figcaption>
+                    <span class="entry-title">Boston New Technology (c. 2018) <span>&#8226;</span> </span>
+                    <span class="entry-description">Portable installation that followed the Boston New Technology meetup group for six months.</span>
+                    
+                        <span class="entry-medium">3D Printer</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Electrical CAD</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">LED Art</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Mechanical CAD</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Protoboard Electronics</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Python</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Twitter</span>
+                        
+                    
+                </figcaption>
+            </figure>
+            
+            
+            <figure onclick="location.href='livepush/index.html';" style="cursor: pointer;" class="item medium">
+                <img
+                    src="static/livepush_1.JPG"
+                    class="gallery-img"
+                    alt="&lt;p&gt;Isometric shot of 3d printed lettering.&lt;/p&gt;"
+                >
+                <figcaption>
+                    <span class="entry-title">Livepush (c. 2017) <span>&#8226;</span> </span>
+                    <span class="entry-description">Persistent installation livestreamed via Periscope.</span>
+                    
+                        <span class="entry-medium">3D Printer</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Electrical CAD</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">LED Art</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Mechanical CAD</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Protoboard Electronics</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Python</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Twitter</span>
+                        
+                    
+                </figcaption>
+            </figure>
+            
+        </div>
+    </div>
+    
+    <div style="background-color: green" class="section-container">
+        <div class="section-header">
+            <h1 class="section-container-item">Freelance Practice</h1>
+            <p>To create another income stream, widen my range of professional engineering experiences, and capitalize on the interest in projects related to blog posts, I started a freelance practice. The following entries are representative of the types of freelance projects I enjoy taking on. For inquiries, you can reach out via <a href="mailto:dev@esologic.com?subject=Freelance%20inquiry">email</a> or through my <a href="https://www.upwork.com/freelancers/~0192d57ab47f9d1135">upwork profile</a>.</p>
+        </div>
+        <div class="container">
+            
+            
+            <figure onclick="location.href='silent_dripper/index.html';" style="cursor: pointer;" class="item large">
+                <img
+                    src="static/silent_dripper_1.gif"
+                    class="gallery-img"
+                    alt="&lt;p&gt;Operating demonstration, pulse sensor output is displayed next to operating drippers.&lt;/p&gt;"
+                >
+                <figcaption>
+                    <span class="entry-title">The Silent Dripper (c. 2021) <span>&#8226;</span> </span>
+                    <span class="entry-description">Reads heartbeat sensor to create perfect water dropplets in total silence.</span>
+                    
+                        <span class="entry-medium">Arduino</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Electrical CAD</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Mechanical CAD</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">PCB Electronics</span>
+                        
+                    
+                </figcaption>
+            </figure>
+            
+            
+            <figure onclick="location.href='footsteps_to_video/index.html';" style="cursor: pointer;" class="item medium">
+                <img
+                    src="static/foot_1.gif"
+                    class="gallery-img"
+                    alt="&lt;p&gt;Operating demonstration, frames of video behind performer increment each time a footstep is detected.&lt;/p&gt;"
+                >
+                <figcaption>
+                    <span class="entry-title">Footsteps to Video (c. 2020) <span>&#8226;</span> </span>
+                    <span class="entry-description">Converts footsteps into frame-by-frame video output.</span>
+                    
+                        <span class="entry-medium">Arduino</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Electrical CAD</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Mechanical CAD</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Protoboard Electronics</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Python</span>
+                        
+                    
+                </figcaption>
+            </figure>
+            
+            
+            <figure onclick="location.href='multi_audio/index.html';" style="cursor: pointer;" class="item medium">
+                <img
+                    src="static/multi_audio_1.JPG"
+                    class="gallery-img"
+                    alt="&lt;p&gt;Overview shot with all components installed.&lt;/p&gt;"
+                >
+                <figcaption>
+                    <span class="entry-title">Multiple Audio (c. 2019) <span>&#8226;</span> </span>
+                    <span class="entry-description">n-Channel Audio Driver for Sound Sculpture.</span>
+                    
+                        <span class="entry-medium">Mechanical CAD</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Raspberry Pi</span>
+                        
+                    
+                </figcaption>
+            </figure>
+            
+        </div>
+    </div>
+    
+    <div style="background-color: orange" class="section-container">
+        <div class="section-header">
+            <h1 class="section-container-item">esologic.com</h1>
+            <p>Personal engineering <a href="https://www.esologic.com">blog</a>. Catalogs the developement of open-source projects, serving as the publication outlet for their releases alongside occasional tutorials and teardowns. My goal is to share useful engineering techniques and methods, promoting the open exchange of ideas. There's an accompanying YouTube channel <a href="https://www.youtube.com/user/esological">here</a>. The following is a representative selection of works published over the 10+ year history of the site.</p>
+        </div>
+        <div class="container">
+            
+            
+            <figure onclick="location.href='gance/index.html';" style="cursor: pointer;" class="item large">
+                <img
+                    src="static/gance_8.gif"
+                    class="gallery-img"
+                    alt="&lt;p&gt;Projection file example.&lt;/p&gt;"
+                >
+                <figcaption>
+                    <span class="entry-title">GANce (c. 2021) <span>&#8226;</span> </span>
+                    <span class="entry-description">Tool to map music and video into the latent space of StyleGAN2 networks.</span>
+                    
+                        <span class="entry-medium">Artificial Intelligence</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Photography</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Python</span>
+                        
+                    
+                </figcaption>
+            </figure>
+            
+            
+            <figure onclick="location.href='tesla_cooler/index.html';" style="cursor: pointer;" class="item medium">
+                <img
+                    src="static/tesla_cooler_2.JPG"
+                    class="gallery-img"
+                    alt="&lt;p&gt;Another shot of the single cooler config.&lt;/p&gt;"
+                >
+                <figcaption>
+                    <span class="entry-title">Tesla Cooler (c. 2021) <span>&#8226;</span> </span>
+                    <span class="entry-description">High performance GPU cooler for the NVIDIA Tesla K80.</span>
+                    
+                        <span class="entry-medium">3D Printer</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Electrical CAD</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Mechanical CAD</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Protoboard Electronics</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Python</span>
+                        
+                    
+                </figcaption>
+            </figure>
+            
+            
+            <figure onclick="location.href='3d_prints/index.html';" style="cursor: pointer;" class="item small">
+                <img
+                    src="static/3d_prints_1.jpg"
+                    class="gallery-img"
+                    alt="&lt;p&gt;Desktop organizer, a gift. &lt;a href=&#34;https://www.esologic.com/3d-printed-pen-notebook-organizer/&#34;&gt;Blog Post&lt;/a&gt;.&lt;/p&gt;"
+                >
+                <figcaption>
+                    <span class="entry-title">3D Print Gallery (c. 2020) <span>&#8226;</span> </span>
+                    <span class="entry-description">Over the years I&#39;ve published a number of standalone 3D printable designs. This entry entry aggregates the most useful and most interesting.</span>
+                    
+                        <span class="entry-medium">3D Printer</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Mechanical CAD</span>
+                        
+                    
+                </figcaption>
+            </figure>
+            
+            
+            <figure onclick="location.href='blinkbox/index.html';" style="cursor: pointer;" class="item medium">
+                <img
+                    src="static/blinkbox_1.JPG"
+                    class="gallery-img"
+                    alt="&lt;p&gt;Isometric detail shot of blinkbox operating.&lt;/p&gt;"
+                >
+                <figcaption>
+                    <span class="entry-title">Blinkbox (c. 2018) <span>&#8226;</span> </span>
+                    <span class="entry-description">Test instrument for addressable LEDs.</span>
+                    
+                        <span class="entry-medium">3D Printer</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Arduino</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Electrical CAD</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">LED Art</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Mechanical CAD</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Protoboard Electronics</span>
+                        
+                    
+                </figcaption>
+            </figure>
+            
+            
+            <figure onclick="location.href='index_mount/index.html';" style="cursor: pointer;" class="item small">
+                <img
+                    src="static/index_mount_1.jpg"
+                    class="gallery-img"
+                    alt="&lt;p&gt;All parts installed with their components inserted.&lt;/p&gt;"
+                >
+                <figcaption>
+                    <span class="entry-title">Index Mount (c. 2018) <span>&#8226;</span> </span>
+                    <span class="entry-description">Over-engineered rack mount for the Valve Index.</span>
+                    
+                        <span class="entry-medium">3D Printer</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Mechanical CAD</span>
+                        
+                    
+                </figcaption>
+            </figure>
+            
+            
+            <figure onclick="location.href='frequency_counter/index.html';" style="cursor: pointer;" class="item small">
+                <img
+                    src="static/frequency_counter_1.jpg"
+                    class="gallery-img"
+                    alt="&lt;p&gt;Breadboard implementation of circuit.&lt;/p&gt;"
+                >
+                <figcaption>
+                    <span class="entry-title">Multi-Channel Frequecy Counter (c. 2018) <span>&#8226;</span> </span>
+                    <span class="entry-description">Sketch to be able to measure multiple periodic squarewaves using an Arduino.</span>
+                    
+                        <span class="entry-medium">Arduino</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Breadboard Electronics</span>
+                        
+                    
+                </figcaption>
+            </figure>
+            
+            
+            <figure onclick="location.href='sound_supervisor/index.html';" style="cursor: pointer;" class="item small">
+                <img
+                    src="static/sound_supervisor_1.jpeg"
+                    class="gallery-img"
+                    alt="&lt;p&gt;Photo of finished product.&lt;/p&gt;"
+                >
+                <figcaption>
+                    <span class="entry-title">Sound Supervisor (c. 2016) <span>&#8226;</span> </span>
+                    <span class="entry-description">Adds physical controls to the Windows volume mixer.</span>
+                    
+                        <span class="entry-medium">3D Printer</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Arduino</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">C#</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Mechanical CAD</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Protoboard Electronics</span>
+                        
+                    
+                </figcaption>
+            </figure>
+            
+            
+            <figure onclick="location.href='heywpi/index.html';" style="cursor: pointer;" class="item medium">
+                <img
+                    src="static/heywpi_1.PNG"
+                    class="gallery-img"
+                    alt="&lt;p&gt;Sample twitter interaction.&lt;/p&gt;"
+                >
+                <figcaption>
+                    <span class="entry-title">@heywpi (c. 2015) <span>&#8226;</span> </span>
+                    <span class="entry-description">Twitter-enabled window.</span>
+                    
+                        <span class="entry-medium">LED Art</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Python</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Raspberry Pi</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Twitter</span>
+                        
+                    
+                </figcaption>
+            </figure>
+            
+            
+            <figure onclick="location.href='piplanter/index.html';" style="cursor: pointer;" class="item large">
+                <img
+                    src="static/piplanter_1.jpeg"
+                    class="gallery-img"
+                    alt="&lt;p&gt;Version 1&#39;s harvest.&lt;/p&gt;"
+                >
+                <figcaption>
+                    <span class="entry-title">PiPlanter (c. 2014) <span>&#8226;</span> </span>
+                    <span class="entry-description">Plant growth automation system based on Raspberry Pi.</span>
+                    
+                        <span class="entry-medium">Arduino</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Electrical CAD</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Protoboard Electronics</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Python</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Raspberry Pi</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Twitter</span>
+                        
+                    
+                </figcaption>
+            </figure>
+            
+            
+            <figure onclick="location.href='google_alarm/index.html';" style="cursor: pointer;" class="item small">
+                <img
+                    src="static/google_alarm_1.jpeg"
+                    class="gallery-img"
+                    alt="&lt;p&gt;Code snippet.&lt;/p&gt;"
+                >
+                <figcaption>
+                    <span class="entry-title">Raspberry Pi Google Calendar Alarm Clock (c. 2013) <span>&#8226;</span> </span>
+                    <span class="entry-description">Uses Google calendar to trigger music playback on a set of speakers via a Raspberry Pi.</span>
+                    
+                        <span class="entry-medium">Python</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Raspberry Pi</span>
+                        
+                    
+                </figcaption>
+            </figure>
+            
+        </div>
+    </div>
+    
+    <div style="background-color: #ad2734" class="section-container">
+        <div class="section-header">
+            <h1 class="section-container-item">Professional + Academic Projects</h1>
+            <p>Projects completed on the job that I advocated to open-source, or academic works completed during the course of my education at <a href="https://en.wikipedia.org/wiki/Worcester_Polytechnic_Institute">WPI</a>.</p>
+        </div>
+        <div class="container">
+            
+            
+            <figure onclick="location.href='mk4_dashboard/index.html';" style="cursor: pointer;" class="item large">
+                <img
+                    src="static/mk4_1.jpg"
+                    class="gallery-img"
+                    alt="&lt;p&gt;Rendering of Mechanical CAD model.&lt;/p&gt;"
+                >
+                <figcaption>
+                    <span class="entry-title">MK4 Dashboard (c. 2018) <span>&#8226;</span> </span>
+                    <span class="entry-description">A fully customizable, open-source, digital dashboard for a replica 1965 Ford Shelby Cobra, the Factory 5 MK4 Roadster.</span>
+                    
+                        <span class="entry-medium">3D Printer</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Arduino</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Frontend Web Development</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Laser Cutter</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Mechanical CAD</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">PCB Electronics</span>
+                        
+                    
+                </figcaption>
+            </figure>
+            
+            
+            <figure onclick="location.href='champ/index.html';" style="cursor: pointer;" class="item large">
+                <img
+                    src="static/champ_1.gif"
+                    class="gallery-img"
+                    alt="&lt;p&gt;Gripper actuating, motion demonstration.&lt;/p&gt;"
+                >
+                <figcaption>
+                    <span class="entry-title">CHAMP: Compliant Hook Arboreal Mobility Platform (c. 2017) <span>&#8226;</span> </span>
+                    <span class="entry-description">Tree climbing robot.</span>
+                    
+                        <span class="entry-medium">Arduino</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Electrical CAD</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">PCB Electronics</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Protoboard Electronics</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Python</span>
+                        
+                    
+                </figcaption>
+            </figure>
+            
+            
+            <figure onclick="location.href='curecab/index.html';" style="cursor: pointer;" class="item medium">
+                <img
+                    src="static/curecab_1.JPG"
+                    class="gallery-img"
+                    alt="&lt;p&gt;Cabinet opened with the lights turned on. Note the part platform and hardware UI.&lt;/p&gt;"
+                >
+                <figcaption>
+                    <span class="entry-title">UV Resin Curing Cabinet (c. 2015) <span>&#8226;</span> </span>
+                    <span class="entry-description">Cabinet full of UV LEDs to accelerate curing of 3D prints from SLA resin printers.</span>
+                    
+                        <span class="entry-medium">3D Printer</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Arduino</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Breadboard Electronics</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Fritzing</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Laser Cutter</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Mechanical CAD</span>
+                        
+                    
+                </figcaption>
+            </figure>
+            
+        </div>
+    </div>
+    
+    <div style="background-color: black" class="section-container">
+        <div class="section-header">
+            <h1 class="section-container-item">Block The Wind</h1>
+            <p>Block The Wind is a Maine-based art collective. Our goal is to inspire, fuel and exhibit creative works in New England. Between our annual festival and artist-first online store, we strive to introduce talented creatives, writers and musicians to the public. I am a founding contributor, leading every major project in the history of the organization. Check out the websites for the <a href="https://www.blockthewindfestival.com/">music festival</a> and <a href="https://www.blockthewind.com/">online store</a>.</p>
+        </div>
+        <div class="container">
+            
+            
+            <figure onclick="location.href='automaton/index.html';" style="cursor: pointer;" class="item small">
+                <img
+                    src="static/automaton_1.JPG"
+                    class="gallery-img"
+                    alt="&lt;p&gt;Both Colorways.&lt;/p&gt;"
+                >
+                <figcaption>
+                    <span class="entry-title">Automaton Hoodie (c. 2019) <span>&#8226;</span> </span>
+                    <span class="entry-description">Apparel for the 2019 music festival.</span>
+                    
+                        <span class="entry-medium">Apparel</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Photography</span>
+                        
+                    
+                </figcaption>
+            </figure>
+            
+            
+            <figure onclick="location.href='block_the_wind_festival_2019/index.html';" style="cursor: pointer;" class="item medium">
+                <img
+                    src="static/btw_2019_1.png"
+                    class="gallery-img"
+                    alt="&lt;p&gt;Group photo. Photo by &lt;a href=&#34;https://www.instagram.com/garrettclare/&#34;&gt;Garrett Clare&lt;/a&gt;.&lt;/p&gt;"
+                >
+                <figcaption>
+                    <span class="entry-title">Block The Wind Festival 2019 (c. 2019) <span>&#8226;</span> </span>
+                    <span class="entry-description">12 artist independent music festival.</span>
+                    
+                        <span class="entry-medium">Events</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Photography</span>
+                        
+                    
+                </figcaption>
+            </figure>
+            
+            
+            <figure onclick="location.href='kyle_bissell/index.html';" style="cursor: pointer;" class="item small">
+                <img
+                    src="static/kyle_1.jpg"
+                    class="gallery-img"
+                    alt="&lt;p&gt;Both hoodie colorways.&lt;/p&gt;"
+                >
+                <figcaption>
+                    <span class="entry-title">BTW x Kyle Bissell (c. 2019) <span>&#8226;</span> </span>
+                    <span class="entry-description">Entry in our collaboration series.</span>
+                    
+                        <span class="entry-medium">Apparel</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Photography</span>
+                        
+                    
+                </figcaption>
+            </figure>
+            
+            
+            <figure onclick="location.href='nick_genesio/index.html';" style="cursor: pointer;" class="item small">
+                <img
+                    src="static/nick_1.jpg"
+                    class="gallery-img"
+                    alt="&lt;p&gt;Tee.&lt;/p&gt;"
+                >
+                <figcaption>
+                    <span class="entry-title">BTW x Nick Genesio (c. 2019) <span>&#8226;</span> </span>
+                    <span class="entry-description">Entry in our collaboration series.</span>
+                    
+                        <span class="entry-medium">Apparel</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Photography</span>
+                        
+                    
+                </figcaption>
+            </figure>
+            
+            
+            <figure onclick="location.href='dimensions/index.html';" style="cursor: pointer;" class="item small">
+                <img
+                    src="static/dimensions_1.JPG"
+                    class="gallery-img"
+                    alt="&lt;p&gt;Both Colorways.&lt;/p&gt;"
+                >
+                <figcaption>
+                    <span class="entry-title">Dimensions Hoodie (c. 2018) <span>&#8226;</span> </span>
+                    <span class="entry-description">Apparel for the 2018 music festival.</span>
+                    
+                        <span class="entry-medium">Apparel</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Photography</span>
+                        
+                    
+                </figcaption>
+            </figure>
+            
+            
+            <figure onclick="location.href='block_the_wind_festival_2018/index.html';" style="cursor: pointer;" class="item medium">
+                <img
+                    src="static/btw_2018_1.jpeg"
+                    class="gallery-img"
+                    alt="&lt;p&gt;Group photo.&lt;/p&gt;"
+                >
+                <figcaption>
+                    <span class="entry-title">Block The Wind Festival 2018 (c. 2018) <span>&#8226;</span> </span>
+                    <span class="entry-description">10 act independent music festival.</span>
+                    
+                        <span class="entry-medium">Events</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Photography</span>
+                        
+                    
+                </figcaption>
+            </figure>
+            
+            
+            <figure onclick="location.href='block_the_wind_festival_2017/index.html';" style="cursor: pointer;" class="item medium">
+                <img
+                    src="static/btw_2017_1.jpeg"
+                    class="gallery-img"
+                    alt="&lt;p&gt;Group photo.&lt;/p&gt;"
+                >
+                <figcaption>
+                    <span class="entry-title">Block The Wind Festival 2017 (c. 2017) <span>&#8226;</span> </span>
+                    <span class="entry-description">9 act independent music festival.</span>
+                    
+                        <span class="entry-medium">Events</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Photography</span>
+                        
+                    
+                </figcaption>
+            </figure>
+            
+            
+            <figure onclick="location.href='block_the_wind_festival_2016/index.html';" style="cursor: pointer;" class="item small">
+                <img
+                    src="static/btw_2016_1.jpeg"
+                    class="gallery-img"
+                    alt="&lt;p&gt;Group photo.&lt;/p&gt;"
+                >
+                <figcaption>
+                    <span class="entry-title">Block The Wind Festival 2016 (c. 2016) <span>&#8226;</span> </span>
+                    <span class="entry-description">7 act independent music festival.</span>
+                    
+                        <span class="entry-medium">Events</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Photography</span>
+                        
+                    
+                </figcaption>
+            </figure>
+            
+            
+            <figure onclick="location.href='block_the_wind_festival_2015/index.html';" style="cursor: pointer;" class="item small">
+                <img
+                    src="static/btw_2015_1.JPG"
+                    class="gallery-img"
+                    alt="&lt;p&gt;Group photo.&lt;/p&gt;"
+                >
+                <figcaption>
+                    <span class="entry-title">Block The Wind Festival 2015 (c. 2015) <span>&#8226;</span> </span>
+                    <span class="entry-description">5 act independent music festival.</span>
+                    
+                        <span class="entry-medium">Events</span>
+                        
+                            <span>/</span>
+                        
+                    
+                        <span class="entry-medium">Photography</span>
+                        
+                    
+                </figcaption>
+            </figure>
+            
+        </div>
+    </div>
+    
+</body>
 </html>
