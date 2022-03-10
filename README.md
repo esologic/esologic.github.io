@@ -17,7 +17,13 @@ To build static files, run:
 python main.py
 ```
 
-To serve the static files, in the `build` directory, run:
+Once the static files are built, push to GitHub for deployment as a GitHub page:
+
+```
+git subtree push --prefix=devon_bray_portfolio/web_view/build origin gh-pages
+```
+
+To serve the static files locally, in `devon_bray_portfolio/web_view/build`, run:
 
 ```bash
 python3 -m http.server

@@ -1,5 +1,11 @@
 # Changelog
 
+1.0.X - (202X-XX-XX)
+------------------
+
+* Migrated to GitHub pages repo.
+* Added content update about BNT recycle
+
 1.0.1 - (2021-12-01)
 ------------------
 
