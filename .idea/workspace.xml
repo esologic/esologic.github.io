@@ -1,7 +1,247 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="257b2ec4-e1b6-48a7-a5d9-6c40f076fb05" name="Changes" comment="" />
+    <list default="true" id="257b2ec4-e1b6-48a7-a5d9-6c40f076fb05" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/portfolio_html_content/CNAME" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio_html_content/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/31_nights_of_light/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/31_nights_of_light/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d_prints/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/3d_prints/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/devon_bray_portfolio/web_view/static/CNAME" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automaton/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/automaton/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blinkbox/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/blinkbox/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/block_the_wind_festival_2015/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/block_the_wind_festival_2015/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/block_the_wind_festival_2016/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/block_the_wind_festival_2016/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/block_the_wind_festival_2017/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/block_the_wind_festival_2017/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/block_the_wind_festival_2018/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/block_the_wind_festival_2018/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/block_the_wind_festival_2019/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/block_the_wind_festival_2019/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boston_new_technology/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/boston_new_technology/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/champ/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/champ/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curecab/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/curecab/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dimensions/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/dimensions/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footsteps_to_video/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/footsteps_to_video/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frequency_counter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/frequency_counter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gance/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/gance/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/google_alarm/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/google_alarm/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heywpi/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/heywpi/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_mount/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/index_mount/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kyle_bissell/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/kyle_bissell/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/livepush/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/livepush/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mk4_dashboard/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/mk4_dashboard/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi_audio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/multi_audio/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nick_genesio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/nick_genesio/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/piplanter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/piplanter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/devon_bray_portfolio/web_view/static/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/silent_dripper/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/silent_dripper/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound_supervisor/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/sound_supervisor/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/31_1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/31_1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/31_10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/31_10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/31_2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/31_2.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/31_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/31_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/31_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/31_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/31_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/31_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/31_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/31_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/31_7.gif" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/31_7.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/31_8.gif" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/31_8.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/31_9.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/31_9.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/31_backbone.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/31_backbone.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/31_nights_of_light_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/31_nights_of_light_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/3d_prints_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/3d_prints_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/3d_prints_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/3d_prints_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/3d_prints_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/3d_prints_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/3d_prints_4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/3d_prints_4.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/3d_prints_5.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/3d_prints_5.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/3d_prints_6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/3d_prints_6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/3d_prints_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/3d_prints_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/automaton_1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/automaton_1.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/automaton_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/automaton_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/automaton_10.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/automaton_10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/automaton_2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/automaton_2.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/automaton_3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/automaton_3.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/automaton_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/automaton_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/automaton_4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/automaton_4.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/automaton_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/automaton_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/automaton_5.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/automaton_5.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/automaton_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/automaton_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/automaton_6.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/automaton_6.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/automaton_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/automaton_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/automaton_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/automaton_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/automaton_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/automaton_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/automaton_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/automaton_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/banner_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/banner_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/banner_18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/banner_18.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/banner_8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/banner_8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/blinkbox_1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/blinkbox_1.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/blinkbox_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/blinkbox_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/blinkbox_3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/blinkbox_3.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/blinkbox_4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/blinkbox_4.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/blinkbox_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/blinkbox_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/blinkbox_6.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/blinkbox_6.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/blinkbox_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/blinkbox_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/block_the_wind_festival_2015_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/block_the_wind_festival_2015_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/block_the_wind_festival_2016_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/block_the_wind_festival_2016_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/block_the_wind_festival_2017_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/block_the_wind_festival_2017_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/block_the_wind_festival_2018_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/block_the_wind_festival_2018_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/block_the_wind_festival_2019_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/block_the_wind_festival_2019_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/block_the_wind_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/block_the_wind_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bnt_1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/bnt_1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bnt_10.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/bnt_10.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bnt_11.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/bnt_11.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bnt_2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/bnt_2.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bnt_3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/bnt_3.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bnt_4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/bnt_4.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bnt_5.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/bnt_5.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bnt_6.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/bnt_6.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bnt_7.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/bnt_7.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bnt_8.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/bnt_8.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bnt_9.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/bnt_9.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/boston_new_technology_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/boston_new_technology_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/btw_2015_1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/btw_2015_1.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/btw_2015_2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/btw_2015_2.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/btw_2015_3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/btw_2015_3.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/btw_2016_1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/btw_2016_1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/btw_2016_2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/btw_2016_2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/btw_2016_3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/btw_2016_3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/btw_2017_1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/btw_2017_1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/btw_2017_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/btw_2017_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/btw_2017_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/btw_2017_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/btw_2018_1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/btw_2018_1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/btw_2018_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/btw_2018_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/btw_2018_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/btw_2018_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/btw_2018_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/btw_2018_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/btw_2018_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/btw_2018_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/btw_2019_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/btw_2019_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/btw_2019_10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/btw_2019_10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/btw_2019_11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/btw_2019_11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/btw_2019_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/btw_2019_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/btw_2019_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/btw_2019_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/btw_2019_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/btw_2019_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/btw_2019_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/btw_2019_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/btw_2019_6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/btw_2019_6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/btw_2019_7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/btw_2019_7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/btw_2019_8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/btw_2019_8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/btw_2019_9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/btw_2019_9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/champ_1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/champ_1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/champ_2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/champ_2.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/champ_3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/champ_3.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/champ_4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/champ_4.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/champ_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/champ_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/champ_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/champ_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/champ_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/champ_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/curecab_1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/curecab_1.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/curecab_2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/curecab_2.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/curecab_3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/curecab_3.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/curecab_4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/curecab_4.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/curecab_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/curecab_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/dimensions_1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/dimensions_1.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/dimensions_2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/dimensions_2.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/dimensions_3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/dimensions_3.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/dimensions_4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/dimensions_4.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/dimensions_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/dimensions_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/entry.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/entry.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/esologic_logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/esologic_logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/foot_1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/foot_1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/foot_2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/foot_2.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/foot_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/foot_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/footsteps_to_video_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/footsteps_to_video_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frequency_counter_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/frequency_counter_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frequency_counter_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/frequency_counter_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frequency_counter_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/frequency_counter_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/gance_10.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/gance_10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/gance_11.gif" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/gance_11.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/gance_2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/gance_2.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/gance_3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/gance_3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/gance_4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/gance_4.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/gance_7.gif" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/gance_7.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/gance_8.gif" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/gance_8.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/gance_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/gance_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/gance_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/gance_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/google_alarm_1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/google_alarm_1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/google_alarm_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/google_alarm_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/header_background.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/header_background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/heywpi_1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/heywpi_1.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/heywpi_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/heywpi_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/heywpi_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/heywpi_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/icon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/icon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/index_mount_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/index_mount_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/index_mount_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/index_mount_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/index_mount_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/index_mount_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/index_mount_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/index_mount_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/kyle_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/kyle_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/kyle_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/kyle_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/kyle_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/kyle_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/kyle_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/kyle_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/kyle_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/kyle_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/kyle_6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/kyle_6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/kyle_7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/kyle_7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/kyle_8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/kyle_8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/kyle_bissell_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/kyle_bissell_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/livepush_1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/livepush_1.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/livepush_2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/livepush_2.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/livepush_3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/livepush_3.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/livepush_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/livepush_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/mk4_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/mk4_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/mk4_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/mk4_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/mk4_3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/mk4_3.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/mk4_4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/mk4_4.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/mk4_5.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/mk4_5.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/mk4_6.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/mk4_6.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/mk4_7.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/mk4_7.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/mk4_dashboard_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/mk4_dashboard_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/multi_audio_1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/multi_audio_1.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/multi_audio_2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/multi_audio_2.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/multi_audio_3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/multi_audio_3.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/multi_audio_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/multi_audio_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/multi_audio_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/multi_audio_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/multi_audio_6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/multi_audio_6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/multi_audio_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/multi_audio_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/nick_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/nick_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/nick_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/nick_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/nick_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/nick_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/nick_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/nick_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/nick_genesio_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/nick_genesio_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/piplanter_1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/piplanter_1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/piplanter_10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/piplanter_10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/piplanter_11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/piplanter_11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/piplanter_12.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/piplanter_12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/piplanter_2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/piplanter_2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/piplanter_3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/piplanter_3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/piplanter_4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/piplanter_4.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/piplanter_5.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/piplanter_5.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/piplanter_6.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/piplanter_6.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/piplanter_7.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/piplanter_7.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/piplanter_8.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/piplanter_8.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/piplanter_9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/piplanter_9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/piplanter_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/piplanter_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/portfolio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/portfolio_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/portfolio_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/portrait.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/portrait.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/portrait.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/portrait.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/resume.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/silent_dripper_1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/silent_dripper_1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/silent_dripper_2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/silent_dripper_2.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/silent_dripper_3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/silent_dripper_3.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/silent_dripper_4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/silent_dripper_4.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/silent_dripper_5.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/silent_dripper_5.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/silent_dripper_6.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/silent_dripper_6.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/silent_dripper_7.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/silent_dripper_7.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/silent_dripper_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/silent_dripper_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/sound_supervisor_1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/sound_supervisor_1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/sound_supervisor_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/sound_supervisor_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/telapush_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/telapush_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/tesla_cooler_1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/tesla_cooler_1.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/tesla_cooler_2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/tesla_cooler_2.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/tesla_cooler_3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/tesla_cooler_3.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/tesla_cooler_4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/tesla_cooler_4.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/tesla_cooler_5.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/tesla_cooler_5.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/tesla_cooler_6.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/tesla_cooler_6.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/tesla_cooler_7.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/tesla_cooler_7.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/tesla_cooler_8.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/tesla_cooler_8.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/tesla_cooler_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/static/tesla_cooler_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tesla_cooler/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_html_content/tesla_cooler/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,9 +259,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/devon_bray_portfolio/web_view/static" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/devon_bray_portfolio/web_view/static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portfolio_html_content" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -32,6 +280,7 @@
       <option name="presentableId" value="Default" />
       <updated>1636038070874</updated>
       <workItem from="1636038072262" duration="2448000" />
+      <workItem from="1646865156583" duration="1317000" />
     </task>
     <servers />
   </component>
