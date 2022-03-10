@@ -4,7 +4,7 @@ Frozen-Flask==0.18
 Markdown==3.3.4
 markdown3-newtab==0.2.0
 mypy==0.812
-Pillow==8.4.0
+Pillow==9.0.0
 parse==1.19.0
 pyaml==21.10.1
 pydantic==1.8.2
