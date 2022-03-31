@@ -1,24 +1,23 @@
-completion_date: '2021-11-15'
+completion_date: '2022-04-12'
 description: Tool to map music and video into the latent space of StyleGAN2 networks.
 domain: software
-explanation: In collaboration with [Won Pound](https://wonpound.bandcamp.com/) for
-  his forthcoming album release via [minaret records](https://minaretrecords.bandcamp.com/artists)
-  I was recently commissioned to lead an expedition into [latent space](https://en.wikipedia.org/wiki/Latent_space),
-  encountering intelligences of my own haphazard creation. Created the camera used
-  to capture training images, then trained [StyleGAN2](https://github.com/NVlabs/stylegan2)
-  networks. Experimentation lead to new methods to input music and video into the
+explanation: GANce (pronounced like dance) is a framework for piping music and video
+  into StyleGAN networks. Resulting music video is a collaboration with [Won Pound](https://wonpound.bandcamp.com/)
+  for his forthcoming album release (April 2022) via [minaret records](https://minaretrecords.bandcamp.com/artists).
+  Created the camera used to capture training images, then trained [StyleGAN2](https://github.com/NVlabs/stylegan2)
   networks. Note that this tool is an active work in progress.
 featured_media:
   label: Projection file example.
   path: ./gance_images/gance_8.gif
-involvement: Wrote software to capture images, trained models, wrote tool.
+involvement: Designed mapping framework, wrote software to capture images, trained
+  models.
 mediums:
+- artificial intelligence
 - python
 - photography
-- artificial intelligence
 primary_url:
-  label: Introductory blog post. Contains more information about technique, as well
-    as examples with sound.
+  label: Read blog posts cataloging engineering development and artistic intent. Contains
+    more examples that include sound.
   link: https://www.esologic.com/gance
 secondary_urls:
 - label: GitHub repository for GANce.
@@ -28,6 +27,8 @@ secondary_urls:
 - label: Won Pound's Bandcamp.
   link: https://wonpound.bandcamp.com/
 youtube_videos:
+- label: Debug view showing overlay filtering.
+  video_id: qLqPKzwex-w
 - label: Debug view for music + video into StyleGAN network.
   video_id: GAuO9Kzxn4s
 local_media:
@@ -37,6 +38,8 @@ local_media:
 - label: Debug view for music + video into StyleGAN network with active switching
     enabled. [Version with sound](https://www.esologic.com/gance/) is much better.
   path: ./gance_images/gance_7.gif
+- label: Eye-tracking overlay example still.
+  path: ./gance_images/gance_12.png
 - label: Resulting still image pulled from sample output video.
   path: ./gance_images/gance_9.png
 - label: Resulting still image pulled from sample output video.
