@@ -8,6 +8,7 @@
 * Updated GANce entry.
 * Fixed filtering logic for invisible posts.
 * Added slight blue tint to unvisited links, and slight purple tint to visible links.
+* Updated Resume.
 
 1.0.1 - (2021-12-01)
 ------------------
