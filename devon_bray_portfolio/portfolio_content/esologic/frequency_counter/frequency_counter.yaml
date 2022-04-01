@@ -24,4 +24,4 @@ size: small
 team_size: solo
 title: Multi-Channel Frequency Counter
 version_number: 0
-visible: true
+visible: false

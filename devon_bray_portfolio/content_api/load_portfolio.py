@@ -364,16 +364,19 @@ def _read_section_from_disk(
 
     entries = list(
         sorted(
-            [
-                _read_entry_from_disk(
-                    yaml_path=_find_yaml(path),
-                    media_directory=static_content_directory,
-                    primary_color=primary_color,
-                    return_button_image=return_button_image,
-                    image_sizes=image_sizes,
-                )
-                for path in _directories_in_directory(section_directory)
-            ],
+            filter(
+                lambda entry: entry.visible,
+                [
+                    _read_entry_from_disk(
+                        yaml_path=_find_yaml(path),
+                        media_directory=static_content_directory,
+                        primary_color=primary_color,
+                        return_button_image=return_button_image,
+                        image_sizes=image_sizes,
+                    )
+                    for path in _directories_in_directory(section_directory)
+                ],
+            ),
             key=lambda entry: entry.completion_date,
             reverse=True,
         )
@@ -507,11 +510,7 @@ def discover_portfolio(
         Section(
             title=section.title,
             description=section.description,
-            entries=[
-                _fill_entry_neighbors(entry, lookup[entry])
-                for entry in section.entries
-                if entry.visible
-            ],
+            entries=[_fill_entry_neighbors(entry, lookup[entry]) for entry in section.entries],
             primary_color=section.primary_color,
             logo=section.logo,
             rank=section.rank,

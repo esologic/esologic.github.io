@@ -163,7 +163,7 @@ figcaption p {
 
 a:link {
   font-weight: bold;
-  color: white;
+  color: #c9f2ff;
   filter: brightness(100%);
 }
 
@@ -172,5 +172,5 @@ a:hover {
 }
 
 a:visited {
-  color: white;
+  color: #fde0ff;
 }
