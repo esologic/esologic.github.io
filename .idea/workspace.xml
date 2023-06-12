@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="257b2ec4-e1b6-48a7-a5d9-6c40f076fb05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/freelance_practice/won_pound_by_won_pound/won_pound_by_won_pound_images/wp_alt_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/freelance_practice/won_pound_by_won_pound/won_pound_by_won_pound_images/wp_alt_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/freelance_practice/won_pound_by_won_pound/won_pound_by_won_pound_images/wp_alt_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/freelance_practice/won_pound_by_won_pound/won_pound_by_won_pound_images/wp_alt_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/freelance_practice/won_pound_by_won_pound/won_pound_by_won_pound_images/wp_alt_5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/esologic/gance/gance.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/esologic/gance/gance.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/freelance_practice/multi_audio/multi_audio.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/freelance_practice/multi_audio/multi_audio.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/professional_academic/curecab/curecab.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/professional_academic/curecab/curecab.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/professional_academic/professional_academic.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/professional_academic/professional_academic.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devon_bray_portfolio/web_view/templates/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/devon_bray_portfolio/web_view/templates/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +51,7 @@
       <workItem from="1648765871174" duration="6808000" />
       <workItem from="1676142383549" duration="162000" />
       <workItem from="1676173215631" duration="1880000" />
-      <workItem from="1686580109027" duration="11102000" />
+      <workItem from="1686580109027" duration="13625000" />
     </task>
     <servers />
   </component>

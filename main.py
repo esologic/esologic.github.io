@@ -17,6 +17,7 @@ def main() -> None:
     # This lets you just copy and paste the resulting directory anywhere and assets are located
     # correctly.
     app.config["FREEZER_RELATIVE_URLS"] = True
+    app.config["FREEZER_DESTINATION"] = '/home/devon/Documents/projects/esologic.github.io/docs'
 
     freezer = Freezer(app)
     freezer.freeze()
