@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="257b2ec4-e1b6-48a7-a5d9-6c40f076fb05" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/freelance_practice/won_pound_by_won_pound/won_pound_by_won_pound_images/wp_alt_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/freelance_practice/won_pound_by_won_pound/won_pound_by_won_pound_images/wp_alt_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/freelance_practice/won_pound_by_won_pound/won_pound_by_won_pound_images/wp_alt_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/freelance_practice/won_pound_by_won_pound/won_pound_by_won_pound_images/wp_alt_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/freelance_practice/won_pound_by_won_pound/won_pound_by_won_pound_images/wp_alt_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/esologic/gance/gance.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/esologic/gance/gance.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/freelance_practice/multi_audio/multi_audio.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/freelance_practice/multi_audio/multi_audio.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/professional_academic/curecab/curecab.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/professional_academic/curecab/curecab.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/professional_academic/professional_academic.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/professional_academic/professional_academic.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devon_bray_portfolio/web_view/templates/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/devon_bray_portfolio/web_view/templates/portfolio.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,13 +32,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/devon_bray_portfolio/web_view/static" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/freelance_practice/won_pound_by_won_pound/won_pound_by_won_pound_images" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/freelance_practice/won_pound_by_won_pound/won_pound_by_won_pound_images" />
+      <recent name="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content" />
+      <recent name="$PROJECT_DIR$/devon_bray_portfolio/web_view/build/static" />
       <recent name="$PROJECT_DIR$/devon_bray_portfolio/web_view/static" />
+      <recent name="$PROJECT_DIR$/devon_bray_portfolio/portfolio_content/esologic/gance/gance_images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/portfolio_html_content" />
@@ -43,6 +58,10 @@
       <updated>1636038070874</updated>
       <workItem from="1636038072262" duration="2448000" />
       <workItem from="1646865156583" duration="8057000" />
+      <workItem from="1648765871174" duration="6808000" />
+      <workItem from="1676142383549" duration="162000" />
+      <workItem from="1676173215631" duration="1880000" />
+      <workItem from="1686580109027" duration="11102000" />
     </task>
     <servers />
   </component>
