@@ -35,7 +35,7 @@ mediums:
 primary_url:
   label: Blog post (contains links code, BOM etc).
   link: https://www.esologic.com/multi-audio/
-size: medium
+size: small
 secondary_urls:
 - label: Documentation on client's website.
   link: https://www.saradittrich.com/These-Blobs

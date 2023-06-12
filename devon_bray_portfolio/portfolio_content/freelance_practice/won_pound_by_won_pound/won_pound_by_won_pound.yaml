@@ -1,0 +1,50 @@
+completion_date: '2022-04-27'
+description: Artwork and music video for Won Pound album.
+domain: software
+explanation: Client wanted accompanying visuals for an album themeatically focused
+  on self-reflection. Worked with client to capture over 50,000 images to then train
+  a [StyleGAN](https://en.wikipedia.org/wiki/StyleGAN) network. Then, created [GANce](https://www.esologic.com/gance/)
+  framework to input music and create animations. Won Pound by Won Pound was released
+  via [Minaret Records](https://www.minaretrecords.com).
+featured_media:
+  label: Album Cover.
+  path: ./won_pound_by_won_pound_images/won_pound_1.JPG
+local_media:
+- label: 'Marketing image #1.'
+  path: ./won_pound_by_won_pound_images/wp_alt_1.png
+- label: 'Marketing image #2.'
+  path: ./won_pound_by_won_pound_images/wp_alt_2.png
+- label: 'Marketing image #3.'
+  path: ./won_pound_by_won_pound_images/wp_alt_3.png
+- label: 'Marketing image #4.'
+  path: ./won_pound_by_won_pound_images/wp_alt_4.png
+- label: 'Marketing image #5.'
+  path: ./won_pound_by_won_pound_images/wp_alt_5.png
+involvement: Commissioned to create the album art and music video.
+youtube_videos:
+- label: Video for NOVA.
+  video_id: 1ced1KxJRl4
+- label: Complete Album Video.
+  video_id: qc573jxXgII
+mediums:
+- artificial intelligence
+- python
+- photography
+primary_url:
+  label: Listen to Won Pound on Bandcamp.
+  link: https://wonpound.bandcamp.com/album/won-pound-3
+size: large
+team_size: small group
+title: Won Pound by Won Pound
+version_number: 0
+secondary_urls:
+- label: GANce blog posts.
+  link: https://esologic.com/gance
+- label: GANce Github.
+  link: https://github.com/esologic/GANce
+press_urls:
+- label: Rhyme Beat Article.
+  link: https://www.rhymebeat.com/2022/05/29/won-pound-won-pound/
+- label: Won Pound on Minaret Records.
+  link: https://www.minaretrecords.com/artists/wonpound
+visible: true

@@ -1,11 +1,10 @@
 completion_date: '2022-04-12'
 description: Tool to map music and video into the latent space of StyleGAN2 networks.
 domain: software
-explanation: GANce (pronounced like dance) is a framework for piping music and video
-  into StyleGAN networks. Resulting music video is a collaboration with [Won Pound](https://wonpound.bandcamp.com/)
-  for his forthcoming album release (April 2022) via [minaret records](https://minaretrecords.bandcamp.com/artists).
-  Created the camera used to capture training images, then trained [StyleGAN2](https://github.com/NVlabs/stylegan2)
-  networks. Note that this tool is an active work in progress.
+explanation: GANce (pronounced like dance) is a python framework for piping music
+  and video into custom-trained StyleGAN networks. Results are music-mapped GAN animations.
+  Also created the camera used to capture training images, then trained [StyleGAN2](https://github.com/NVlabs/stylegan2)
+  networks.
 featured_media:
   label: Projection file example.
   path: ./gance_images/gance_8.gif
@@ -24,8 +23,6 @@ secondary_urls:
   link: https://github.com/esologic/GANce
 - label: GitHub repository for Pitraiture, the tool used to capture the training images.
   link: https://github.com/esologic/pitraiture
-- label: Won Pound's Bandcamp.
-  link: https://wonpound.bandcamp.com/
 youtube_videos:
 - label: Debug view showing overlay filtering.
   video_id: qLqPKzwex-w

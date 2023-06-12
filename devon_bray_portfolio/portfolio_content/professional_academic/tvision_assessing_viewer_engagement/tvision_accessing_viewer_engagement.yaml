@@ -1,0 +1,39 @@
+completion_date: '2022-12-27'
+description: System for measuring how people watch TV.
+domain: mixed (hardware, software)
+explanation: US Patent No. US11540009B2 encapsulates much of the work I have done
+  at TVision since starting there in 2018. I am included on this patent alongside
+  the CTO, the director of Engineering, Head of Data Science and Vice President of
+  Product Management. To summarize, the patent describes the device we deploy in our
+  panelists homes. This device uses a camera, microphone, and local network analysis
+  to determine who is in the room, what is being played on the TV, and if they're
+  paying attention. I was key contributor to the Packet Inspection component of this
+  patent (module 1702), but have worked on all of the different software components
+  running on our devices.
+featured_media:
+  label: System diagram from patent.
+  path: ./tvision_assessing_viewer_engagement_images/tvision_1.png
+involvement: Key contributor to network analysis technology.
+mediums:
+- python
+- artificial intelligence
+primary_url:
+  label: Read the patent.
+  link: https://patents.google.com/patent/US11540009B2/en?inventor=Devon+M.+Bray
+youtube_videos:
+- label: CTO describing our approach at conference.
+  video_id: xnFypL2JXPE
+- label: CEO describing our value proposition.
+  video_id: j23C5geTS3A
+secondary_urls:
+- label: Patent PDF link.
+  link: https://patentimages.storage.googleapis.com/27/0f/54/0af00190c3412e/US11540009.pdf
+- label: Company Website.
+  link: https://www.tvisioninsights.com/
+- label: Company Linkedin.
+  link: https://www.linkedin.com/company/tvision-insights/
+size: large
+team_size: large group
+title: Accessing Viewer Engagement
+version_number: 0
+visible: true
