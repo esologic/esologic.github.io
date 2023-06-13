@@ -11,6 +11,6 @@ source ./venv/bin/activate
 
 export PYTHONPATH="./devon_bray_portfolio:./test${PYTHONPATH+:}${PYTHONPATH:-}"
 
-mypy --show-error-codes main.py  # Run on loose files within this project
+mypy --show-error-codes create_static_portfolio.py  # Run on loose files within this project
 mypy --show-error-codes -p devon_bray_portfolio -p test  # Run on sub-packages within this project
 

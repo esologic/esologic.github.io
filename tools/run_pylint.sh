@@ -12,4 +12,4 @@ source ./venv/bin/activate
 
 export PYTHONPATH="./devon_bray_portfolio:./test${PYTHONPATH+:}${PYTHONPATH:-}"
 
-pylint main.py devon_bray_portfolio test
+pylint create_static_portfolio.py devon_bray_portfolio test

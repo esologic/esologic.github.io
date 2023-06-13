@@ -4,4 +4,4 @@
 
 __author__ = """Devon Bray"""
 __email__ = "dev@esologic.com"
-__version__ = "0.0.1"
+__version__ = "1.1.0"
