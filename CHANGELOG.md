@@ -1,6 +1,6 @@
 # Changelog
 
-1.0.X - (202X-XX-XX)
+1.1.1 - (2023-06-13)
 ------------------
 
 * Migrated to GitHub pages repo.
@@ -9,6 +9,8 @@
 * Fixed filtering logic for invisible posts.
 * Added slight blue tint to unvisited links, and slight purple tint to visible links.
 * Updated Resume.
+* Added Won Pound and Patent entries.
+* Simplified build and deploy.
 
 1.0.1 - (2021-12-01)
 ------------------

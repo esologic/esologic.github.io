@@ -14,22 +14,14 @@ I should be able to update the style and presentation of the portfolio without h
 To build static files, run:
 
 ```bash
-python main.py
+python create_static_portfolio.py
 ```
 
-Once the static files are built, push to GitHub for deployment as a GitHub page:
+This will "Freeze" the flask application into a series of static HTML files and assets, output
+to the `./docs` directory. On merges to master, the contents of `./docs` are deployed as the
+GitHub page.
 
-```
-git subtree push --prefix=devon_bray_portfolio/web_view/build origin gh-pages
-```
-
-You can force push this if needed:
-
-```
-git push origin `git subtree split --prefix=devon_bray_portfolio/web_view/build origin gh-pages`:gh-pages --force
-```
-
-To serve the static files locally, in `devon_bray_portfolio/web_view/build`, run:
+To serve the static files locally, in `./docs`, run:
 
 ```bash
 python3 -m http.server
@@ -38,7 +30,7 @@ python3 -m http.server
 To use the flask server, with the `venv` activated, run:
 
 ```bash
- python -m devon_bray_portfolio.web_view.app
+python -m devon_bray_portfolio.web_view.app
 ```
 
 ## Getting Started
