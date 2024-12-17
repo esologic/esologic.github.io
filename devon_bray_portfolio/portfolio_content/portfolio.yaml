@@ -1,6 +1,6 @@
 version_number: 0
 title: Devon Bray
-description: Boston-based Engineer with an educational background in **Electrical
+description: Engineer from Portland, ME with an educational background in **Electrical
   & Computer Engineering**, **Computer Science** and **English Literature**.
 explanation: I seek out work which leverages interdisciplinary engineering processes,
   leading to the development of tools, technologies and frameworks that live at the
@@ -10,12 +10,11 @@ explanation: I seek out work which leverages interdisciplinary engineering proce
 conclusion: The following is my portfolio, a selection of the best projects across
   the different areas I'm active. If you have questions please reach out via email.
 email: dev@esologic.com
-resume_path: ./resume-v15-one-page.pdf
 contact_urls:
 - label: GitHub.
   link: https://github.com/esologic/
 - label: Twitter.
-  link: https://twitter.com/eso_logic/
+  link: https://twitter.com/esologic/
 - label: LinkedIn.
   link: https://www.linkedin.com/in/braydevon/
 header_top_image:
